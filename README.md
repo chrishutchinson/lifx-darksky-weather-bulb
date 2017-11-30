@@ -1,4 +1,4 @@
-# LIFX + Dark Sky weather bulb
+# 💡 LIFX + Dark Sky weather bulb
 
 >Simple Node.js app for setting the colour of a LIFX bulb based on the current weather forecast
 
